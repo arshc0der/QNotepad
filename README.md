@@ -2,7 +2,7 @@
 
 Welcome to **QNotepad**—your simple yet powerful text editor built with Qt and C++! Whether you’re jotting down quick notes or drafting a document, QNotepad has you covered.
 
-![QNotepad Screenshot](link-to-your-screenshot)
+![Screenshot 2](https://raw.githubusercontent.com/arshc0der/QNotepad/refs/heads/main/preview/QN5.png)
 
 ## Features ✨
 
@@ -37,8 +37,10 @@ Follow these simple steps to get started:
 
 Here's a sneak peek of QNotepad in action:
 
-![Screenshot 1](link-to-your-screenshot1)
-![Screenshot 2](link-to-your-screenshot2)
+![Screenshot 1](https://raw.githubusercontent.com/arshc0der/QNotepad/refs/heads/main/preview/QN1.png)
+![Screenshot 2](https://raw.githubusercontent.com/arshc0der/QNotepad/refs/heads/main/preview/QN2.png)
+![Screenshot 2](https://raw.githubusercontent.com/arshc0der/QNotepad/refs/heads/main/preview/QN3.png)
+![Screenshot 2](https://raw.githubusercontent.com/arshc0der/QNotepad/refs/heads/main/preview/QN4.png)
 
 ## Contributing 🤝
 
